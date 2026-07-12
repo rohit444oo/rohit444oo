@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="photo.svg" alt="ASCII Profile">
+</p>
+
+<br>
+
 # 👋 Hi, I'm Rohit Singh
 
 ## 🛡️ Cybersecurity Student | Ethical Hacking Enthusiast | Future Security Analyst
