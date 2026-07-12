@@ -1,0 +1,419 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1184" height="1111" viewBox="0 0 1184 1111" font-family="monospace">
+<rect width="100%" height="100%" fill="#0d1117"/>
+<style>text{font-family:Menlo,Consolas,"DejaVu Sans Mono",monospace;font-size:12px;white-space:pre;dominant-baseline:hanging;}</style>
+<clipPath id="c0">
+<rect x="16" y="16" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="0.000s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="16" fill="#c9d1d9" clip-path="url(#c0)" xml:space="preserve">@@@@BBB@B%%%%%%B%8&amp;&amp;8%%8&amp;&amp;&amp;&amp;WWWWWWWWWWWWWWMMM###***##******************oooooooooooooooooo************##******************#######MMWWWWW&amp;&amp;&amp;%%&amp;MW%B%88%%BBB%%BBB88</text>
+<rect y="16" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="0.000s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.000s"/><set attributeName="opacity" to="0" begin="0.280s"/></rect>
+<clipPath id="c1">
+<rect x="16" y="29" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="0.280s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="29" fill="#c9d1d9" clip-path="url(#c1)" xml:space="preserve">@@@BBBBBB%%%88%%%&amp;&amp;&amp;8%8&amp;&amp;&amp;&amp;WWWWWWWWWMMMMMMM####***********oooo*****ooooaaaaaaooaaho**ao*ooooooooooo********ooooooooooo********###MMWWWWWW&amp;88WMW8B%888%BBB%%BB%8&amp;</text>
+<rect y="29" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="0.280s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.280s"/><set attributeName="opacity" to="0" begin="0.560s"/></rect>
+<clipPath id="c2">
+<rect x="16" y="42" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="0.560s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="42" fill="#c9d1d9" clip-path="url(#c2)" xml:space="preserve">@@@BBBBBBB%%%%%%8&amp;WW8%8&amp;WWWWWWWWWMMMMMM#####****oooooooooooooooahaoakho#WWW8%B8WWM&amp;8&amp;W888&amp;&amp;M****oooooooooooooooaaaoooooooo******###MMMWWWW&amp;&amp;W#M8%%888%BBB%%BB%&amp;&amp;</text>
+<rect y="42" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="0.560s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.560s"/><set attributeName="opacity" to="0" begin="0.840s"/></rect>
+<clipPath id="c3">
+<rect x="16" y="55" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="0.840s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="55" fill="#c9d1d9" clip-path="url(#c3)" xml:space="preserve">@@@B%%BBB%%%%BBB8&amp;WW88&amp;WWWWWWWWMMMMM#######****ooooaaaaaooohhhdk*odaWBB&amp;MWB@8WW8WWW&amp;88B888%B%8%B%&amp;W*oaaaaaaaaaaaaaaaaooooooooo****###MMMWW&amp;&amp;M*M8B%888%BBB%%BB8&amp;&amp;</text>
+<rect y="55" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="0.840s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.840s"/><set attributeName="opacity" to="0" begin="1.120s"/></rect>
+<clipPath id="c4">
+<rect x="16" y="68" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="1.120s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="68" fill="#c9d1d9" clip-path="url(#c4)" xml:space="preserve">@@@B%BBB%%%%%%%%8WWW&amp;8&amp;WWWMMMMMMMMM##*#####**oooaaaaaaaahdwbhqo&amp;kqo8@Bo&amp;@$B*&amp;&amp;M#&amp;8%&amp;%8&amp;BB@BBBBB8%B%%8W&amp;W#*hhhhaahhhaaaaoo**ooooo***###MMMWWWM*#8%%8%%%BBB%%%%&amp;WW</text>
+<rect y="68" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="1.120s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.120s"/><set attributeName="opacity" to="0" begin="1.400s"/></rect>
+<clipPath id="c5">
+<rect x="16" y="81" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="1.400s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="81" fill="#c9d1d9" clip-path="url(#c5)" xml:space="preserve">@@@B%BBBBBB%%%%%8WWW&amp;8&amp;WWMMMMMMMM###*******oooaaahhaakdddOk#LoBpOa&amp;B@a8@@Bo%&amp;#W8&amp;ohoW8%M#W&amp;8&amp;8&amp;&amp;8%B%B88B%%%WM*ahkkhhhhhaaooooooooo*####MMMWWM*#&amp;%88888BB%88%%&amp;WW</text>
+<rect y="81" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="1.400s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.400s"/><set attributeName="opacity" to="0" begin="1.680s"/></rect>
+<clipPath id="c6">
+<rect x="16" y="94" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="1.680s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="94" fill="#c9d1d9" clip-path="url(#c6)" xml:space="preserve">@@@B%%BB%%%8888%8WMW&amp;8&amp;WWMMM##MMM###****ooooaahhhkkhmphw#LWwm$pdmhM$*a%@@M88#%%B*hh%$8hhoW&amp;#aa*&amp;%BB@BB%%B$B%BB%Wabbhhhhhhaaaaooooooo****#MW&amp;M*#&amp;88&amp;&amp;88%B%88%%&amp;MM</text>
+<rect y="94" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="1.680s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.680s"/><set attributeName="opacity" to="0" begin="1.960s"/></rect>
+<clipPath id="c7">
+<rect x="16" y="107" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="1.960s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="107" fill="#c9d1d9" clip-path="url(#c7)" xml:space="preserve">B@B%8%B%8888&amp;&amp;88&amp;M#M&amp;8WWMMMMMMM####******oaaahhkkkbO0Ww#&amp;m%maBb#qkM$akM@$o@a8$$WaWB@*p#8B%**M%$%W*#8%@$$@B%@$@@@BMkbbbkkkhhhhhaaahao****#M&amp;&amp;W*#&amp;8&amp;W&amp;&amp;8%B%8&amp;88&amp;MM</text>
+<rect y="107" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="1.960s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.960s"/><set attributeName="opacity" to="0" begin="2.240s"/></rect>
+<clipPath id="c8">
+<rect x="16" y="120" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="2.240s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="120" fill="#c9d1d9" clip-path="url(#c8)" xml:space="preserve">@@B%8%BB%%%%%888&amp;M#M&amp;&amp;WMMMMMMM####***oooooaahhhhkbOQM&amp;O&amp;%k&amp;hhB#%ah*B&amp;ho&amp;@o8WB$@M%BBWh8@@BWM%&amp;#adda&amp;%%%%WM&amp;B@$@B@@@%*kpdbbkkkkhhhhhhao****MW&amp;M**&amp;8&amp;WW&amp;&amp;8%%&amp;&amp;88&amp;M#</text>
+<rect y="120" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="2.240s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="2.240s"/><set attributeName="opacity" to="0" begin="2.520s"/></rect>
+<clipPath id="c9">
+<rect x="16" y="133" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="2.520s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="133" fill="#c9d1d9" clip-path="url(#c9)" xml:space="preserve">@@B%8%BB%%%%%%88&amp;M*M&amp;&amp;WM#M#MM####***ooooaaahhhhkkbLd88kM&amp;M*%hM8B%*o&amp;@*hW$&amp;o8@$BB@@%MB$@@%B8WM*oMB%#hM8&amp;**oo8@8%$$@$$%kpdbbbbkhhhhhhhao***#MM*o*W8&amp;WWW&amp;8%8&amp;&amp;88&amp;M#</text>
+<rect y="133" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="2.520s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="2.520s"/><set attributeName="opacity" to="0" begin="2.800s"/></rect>
+<clipPath id="c10">
+<rect x="16" y="146" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="2.800s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="146" fill="#c9d1d9" clip-path="url(#c10)" xml:space="preserve">BBB88%B%88&amp;&amp;&amp;888W#*#WWM#######****ooooaaahhhhkhhbwLa%@**&amp;8W&amp;BoM&amp;BB&amp;M8BWW8@WMB$@$@$@B$$$@B%B@8M8@@8M&amp;B@B&amp;*MWMoW@@@@$$@Wdqpddbkkkkkhhaoo**####oaoM&amp;WMMWW888WW88W##</text>
+<rect y="146" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="2.800s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="2.800s"/><set attributeName="opacity" to="0" begin="3.080s"/></rect>
+<clipPath id="c11">
+<rect x="16" y="159" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="3.080s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="159" fill="#c9d1d9" clip-path="url(#c11)" xml:space="preserve">BBB88%B%%8&amp;&amp;&amp;&amp;&amp;&amp;W#*#WWM######****ooooaaaahhhhkkhhdmh&amp;BB#&amp;B@&amp;8@8&amp;8%B%&amp;%@B8B$8%$BB$@@$@@$$$$$BB$%@$@@$$$@@BMhko*M%@$@@@Baqpppdbbkkhhhaoo**###*ohaM&amp;WMMMW&amp;88WW8&amp;W**</text>
+<rect y="159" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="3.080s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="3.080s"/><set attributeName="opacity" to="0" begin="3.360s"/></rect>
+<clipPath id="c12">
+<rect x="16" y="172" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="3.360s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="172" fill="#c9d1d9" clip-path="url(#c12)" xml:space="preserve">BBB88%BB%%888&amp;&amp;&amp;M*o#WWMMM###***ooooaaaaaahhkkkbbh**#WW%@B%B@B8B@@BBB8&amp;W&amp;%8&amp;%WW&amp;#M&amp;B@BB$%8@$$$$$$$$$$$$@B%&amp;8888%B%%%@$$@hpppdbbkkkhhaao******akaMWW##MM&amp;8&amp;WW&amp;&amp;M*o</text>
+<rect y="172" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="3.360s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="3.360s"/><set attributeName="opacity" to="0" begin="3.640s"/></rect>
+<clipPath id="c13">
+<rect x="16" y="185" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="3.640s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="185" fill="#c9d1d9" clip-path="url(#c13)" xml:space="preserve">%%%8888&amp;&amp;&amp;WWWMMM#**#WM####*****oooaaaaaahhhhkkhakho8B%%8%%BBBB%W#okdZOCYzYCJYXJJQqo88&amp;*ao&amp;W#**W8%B@B$$$$@$@@%WMWW&amp;8B@@$Mqqpbbdbbkkhhaooooo**abh#WM##MMW8&amp;WW&amp;&amp;Moo</text>
+<rect y="185" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="3.640s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="3.640s"/><set attributeName="opacity" to="0" begin="3.920s"/></rect>
+<clipPath id="c14">
+<rect x="16" y="198" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="3.920s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="198" fill="#c9d1d9" clip-path="url(#c14)" xml:space="preserve">%%%8&amp;888&amp;&amp;&amp;WWWMM#*o#MM********oooaahhhhahhhhhhhho*#8B$@%BBBWoqZLznf/)}_ilIIIIIl+{fXZqmwOCzxtjjxcCZpda&amp;%@@$@%8WMMMW&amp;B@$$@hqpppppdkkhhao*ooo**hdk#WM###MW&amp;&amp;WW&amp;W#aa</text>
+<rect y="198" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="3.920s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="3.920s"/><set attributeName="opacity" to="0" begin="4.200s"/></rect>
+<clipPath id="c15">
+<rect x="16" y="211" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="4.200s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="211" fill="#c9d1d9" clip-path="url(#c15)" xml:space="preserve">@@%&amp;&amp;%B%%8888&amp;8&amp;#oo*M#*****ooooaaaahhhhhhhhkkkkbbdd*88%BB&amp;dYf1?~li~!I:^^'      '`&quot;!~][}?il:&quot;,&quot;:l+]|xvJmb#8@$$@@B%B@@$$$@kqpddppdbbkhhaoooo**hpb#WM###MW&amp;&amp;WW&amp;W#aa</text>
+<rect y="211" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="4.200s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="4.200s"/><set attributeName="opacity" to="0" begin="4.480s"/></rect>
+<clipPath id="c16">
+<rect x="16" y="224" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="4.480s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="224" fill="#c9d1d9" clip-path="url(#c16)" xml:space="preserve">BB%&amp;&amp;%%8WWMMW&amp;&amp;W#aa*M#***ooooooaaaaaahhhhkkkkkkkdpq*W#&amp;@MC}l``.'`&quot;,,,&quot;^'             ''.       .`,!-[)txXZh&amp;@@$$@B@$$$$Bkwqppqqpdbbkhaaooo**apb#WM*#MMW&amp;&amp;WW&amp;W*aa</text>
+<rect y="224" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="4.480s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="4.480s"/><set attributeName="opacity" to="0" begin="4.760s"/></rect>
+<clipPath id="c17">
+<rect x="16" y="237" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="4.760s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="237" fill="#c9d1d9" clip-path="url(#c17)" xml:space="preserve">BB%&amp;&amp;%%8WWMMWWWM*aa*M#***ooooaaaaoaaahhhhkkbbbbbqmq#WW8ML}&quot;.    '^&quot;,,,^'                         `,I!+?[)rzYa@$B%@$$$$$8pqpppqqppdbkkhaaoo**hpb*M#*#MMW&amp;&amp;WWWW*aa</text>
+<rect y="237" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="4.760s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="4.760s"/><set attributeName="opacity" to="0" begin="5.040s"/></rect>
+<clipPath id="c18">
+<rect x="16" y="250" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="5.040s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="250" fill="#c9d1d9" clip-path="url(#c18)" xml:space="preserve">BB8&amp;&amp;%%888&amp;&amp;WMM#ohho##*ooooooaaaaaahhhhhhkkbbdbdpZZMM&amp;&amp;pr~^    .`^&quot;&quot;^^`'                       .'^,;li_-???1Uh8@8%@$$$@#pqppppqppdbbbkhaaoookpb*WM*##M&amp;8&amp;WW&amp;W#oo</text>
+<rect y="250" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="5.040s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="5.040s"/><set attributeName="opacity" to="0" begin="5.320s"/></rect>
+<clipPath id="c19">
+<rect x="16" y="263" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="5.320s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="263" fill="#c9d1d9" clip-path="url(#c19)" xml:space="preserve">%%8&amp;&amp;&amp;&amp;&amp;&amp;WWWM##*ohhoM#*oooooooooaaahhhhhkkkbbbbbpm0W&amp;oh0(;'. .''``''''..                      '`^,:I!~~~~~~-tm*%B8B@@$8dqppqppppppdbbbkhaaoabqb*WM**#MW8&amp;WWWW#oo</text>
+<rect y="263" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="5.320s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="5.320s"/><set attributeName="opacity" to="0" begin="5.600s"/></rect>
+<clipPath id="c20">
+<rect x="16" y="276" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="5.600s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="276" fill="#c9d1d9" clip-path="url(#c20)" xml:space="preserve">%%8&amp;&amp;&amp;&amp;&amp;WWWMMM#*akko##oaaaoooooooaaahhhhkkkkkkkbbwm**#pc_&quot;^.......                             `&quot;;l!i~i~~+_-/C#8B8BB@Baqqqpqqqpppppdbbkhhhaabqd*M#**#MW&amp;&amp;WWWW#aa</text>
+<rect y="276" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="5.600s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="5.600s"/><set attributeName="opacity" to="0" begin="5.880s"/></rect>
+<clipPath id="c21">
+<rect x="16" y="289" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="5.880s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="289" fill="#c9d1d9" clip-path="url(#c21)" xml:space="preserve">BB8W&amp;88&amp;&amp;&amp;WMMMM#abbo#*ooaaaoooooooaahhhkkkkhhhhkkbZk&amp;*d|:^`'                                  .`&quot;:li~~~iii_?|Q*88BB$@oqqqqqqqpppqpppddbkhkhhdqdoM#***#W&amp;&amp;WMWM*hh</text>
+<rect y="289" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="5.880s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="5.880s"/><set attributeName="opacity" to="0" begin="6.160s"/></rect>
+<clipPath id="c22">
+<rect x="16" y="302" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="6.160s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="302" fill="#c9d1d9" clip-path="url(#c22)" xml:space="preserve">%%&amp;W&amp;88&amp;WM#**#M#akko#*ooooooooooooaaahhhhkhhhhhhkkdqo#Z_:^.  .&quot;;I:&quot;`.                         '^^^,;li~__+__{0*W%@@@#qwwqwwqqpppqqpppdbkkkkkqmpo##***#M&amp;&amp;WMWM*kb</text>
+<rect y="302" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="6.160s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="6.160s"/><set attributeName="opacity" to="0" begin="6.440s"/></rect>
+<clipPath id="c23">
+<rect x="16" y="315" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="6.440s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="315" fill="#c9d1d9" clip-path="url(#c23)" xml:space="preserve">%%&amp;W&amp;88&amp;WMM###M*kdko*ooooooooooooaaaaahhhhhhhahhhhkphMZI&quot; .+)UOwbww0JXn[!:^&quot;.                      '^^,!_??][xa&amp;B@@Mqwwwwwwqqpppppddbbbkkhhhpmpo#*****MWWMMWMokb</text>
+<rect y="315" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="6.440s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="6.440s"/><set attributeName="opacity" to="0" begin="6.720s"/></rect>
+<clipPath id="c24">
+<rect x="16" y="328" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="6.720s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="328" fill="#c9d1d9" clip-path="url(#c24)" xml:space="preserve">%8&amp;W&amp;&amp;&amp;WWWMM###*hdbo#*ooaoooooooaaaaahaaaahaaaaahhhbdMm` lrYUJJUQZaW%@&amp;WMhCYr[_,.  `,:~I:!~-+]{1(/|rnj1il-}{1fh8%@8dwqqqqqqqqpddddbbbbkkhhaadwqa#*ooo*MWWMMWM*hk</text>
+<rect y="328" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="6.720s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="6.720s"/><set attributeName="opacity" to="0" begin="7.000s"/></rect>
+<clipPath id="c25">
+<rect x="16" y="341" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="7.000s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="341" fill="#c9d1d9" clip-path="url(#c25)" xml:space="preserve">&amp;&amp;WWWWMMM##***oakpbo#**ooooooooaaaahhaaaaahhaaaaaaoab*v `}t1{}]-][(rXQwkkbwOQcf-^ ^_rYLXOa&amp;8M#&amp;##aqbbwqQu?[1}j#B@%kqqqppqqpppdbbbbkkkhhhhhaabmqa#*ooo*#WWMMWM*hh</text>
+<rect y="341" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="7.000s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="7.000s"/><set attributeName="opacity" to="0" begin="7.280s"/></rect>
+<clipPath id="c26">
+<rect x="16" y="354" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="7.280s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="354" fill="#c9d1d9" clip-path="url(#c26)" xml:space="preserve">%8WMW88&amp;&amp;WWWWWW#kpb*M#**oooaoooaaaaaaaaaaaaaaaooohZwph) I1tuCmwmZbhwkabwO0CUYx};  '~rJ0ZbaahkbpQx)]?](nCwu]}]c8@@oqqqqqwqqpppdbbbbkkkhaaaaoobmqoM#oo**#WWMMWW*hk</text>
+<rect y="354" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="7.280s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="7.280s"/><set attributeName="opacity" to="0" begin="7.560s"/></rect>
+<clipPath id="c27">
+<rect x="16" y="367" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="7.560s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="367" fill="#c9d1d9" clip-path="url(#c27)" xml:space="preserve">%8WMW&amp;WMM####MW#kpk#WM**oooooooooooooooooaaaaoo*hj_,)J! !)vLwboOjo%WBq|Uqw0LJti'   :1cLmpbhka#kbqQUznf(|tu|?_UB@8bddpppppppdbkkkbbbkhaaooo**bmqoM#****#WWM#MM*hk</text>
+<rect y="367" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="7.560s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="7.560s"/><set attributeName="opacity" to="0" begin="7.840s"/></rect>
+<clipPath id="c28">
+<rect x="16" y="380" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="7.840s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="380" fill="#c9d1d9" clip-path="url(#c28)" xml:space="preserve">%8WMW&amp;W##**o*#M*kpbaahkbkbbbbkbbbbkkkkkhhhhhhaa*mtzf-]' &quot;l+??tCCnvQJY//fxXUnx}I.   :}jzLwqOnJ$&amp;8$CX*MowUvt}+iL$@awpkkbbbbbbbbbbbdbkkhaoooo*obZwoWM***#MWWM#MM*kb</text>
+<rect y="380" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="7.840s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="7.840s"/><set attributeName="opacity" to="0" begin="8.120s"/></rect>
+<clipPath id="c29">
+<rect x="16" y="393" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="8.120s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="393" fill="#c9d1d9" clip-path="url(#c29)" xml:space="preserve">8&amp;M#W&amp;M#**o**##okbkaaaaahhhhhhkkkkhaaaaoooaao**Mw(ttt_       ^i]))[-~i!IIi?]~i&quot;    ;__)r/)/rnXUOJtcwqLUct[+i!0prii(uqqwwwmmZmmmmmwqqppdbbbbbdqp*WM#**#M&amp;&amp;M#MM*kd</text>
+<rect y="393" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="8.120s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="8.120s"/><set attributeName="opacity" to="0" begin="8.400s"/></rect>
+<clipPath id="c30">
+<rect x="16" y="406" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="8.400s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="406" fill="#c9d1d9" clip-path="url(#c30)" xml:space="preserve">8&amp;##WWM#**ooo*#obpa&amp;BBB%%888&amp;&amp;&amp;WWWWW&amp;&amp;&amp;&amp;888888%B*}(i?I             . ...'&quot;:&quot;,:.    ;iIIi+~l;l~[1)/ff(}??_!l!ic_&quot;?xzr###************##MMMMMMModb#WWM#MMW&amp;&amp;M#MM*kb</text>
+<rect y="406" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="8.400s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="8.400s"/><set attributeName="opacity" to="0" begin="8.680s"/></rect>
+<clipPath id="c31">
+<rect x="16" y="419" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="8.680s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="419" fill="#c9d1d9" clip-path="url(#c31)" xml:space="preserve">%&amp;##W&amp;M##******appa&amp;BB%&amp;WWWWWWWMWWWMMMWWWW&amp;&amp;88%B%(lir,                   ^;I;^    'IiIII&quot;`'.    '`^&quot;^&quot;,,:II!+f[:-[_LB&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;WWWW&amp;&amp;&amp;88%%B%*dd*WWWMWW&amp;8&amp;M#MM*kb</text>
+<rect y="419" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="8.680s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="8.680s"/><set attributeName="opacity" to="0" begin="8.960s"/></rect>
+<clipPath id="c32">
+<rect x="16" y="432" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="8.960s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="432" fill="#c9d1d9" clip-path="url(#c32)" xml:space="preserve">%&amp;MM&amp;&amp;WMM###***obdhW%8&amp;WMMMMMMM#MWW##WWWWW&amp;&amp;&amp;&amp;8%%plI)^ .                 ;i;'     ';!~~!&quot;              .^,Ii-x+.:l!aWM#######MMM#MMWWWWW&amp;88&amp;*db#&amp;&amp;&amp;&amp;&amp;&amp;888WMMM*kb</text>
+<rect y="432" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="8.960s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="8.960s"/><set attributeName="opacity" to="0" begin="9.240s"/></rect>
+<clipPath id="c33">
+<rect x="16" y="445" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="9.240s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="445" fill="#c9d1d9" clip-path="url(#c33)" xml:space="preserve">WWMMM#***ooaaaahbdhW8&amp;MMM#***#MW&amp;8&amp;WMMM##MWWMW&amp;8&amp;&amp;}&quot;r!.^&quot;^''.           &quot;-,       ';ll_[I.            .'^:i-[u],^`CWMM#M###**MW#*#MMMMWWMW&amp;WodbMBB%%%%B%8WMWW*kb</text>
+<rect y="445" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="9.240s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="9.240s"/><set attributeName="opacity" to="0" begin="9.520s"/></rect>
+<clipPath id="c34">
+<rect x="16" y="458" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="9.520s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="458" fill="#c9d1d9" clip-path="url(#c34)" xml:space="preserve">%&amp;MM&amp;&amp;&amp;WWWMM###adphW8W###**M&amp;&amp;&amp;WWWWW&amp;&amp;&amp;WM##M#M&amp;8&amp;8c,[-`,::^``'         .;`        .,,^:?i'           '^:;l+[jt^.'rM*##***#MWW&amp;&amp;&amp;WWM#**M##MWMapbM%%8888%%8WMWW*kk</text>
+<rect y="458" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="9.520s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="9.520s"/><set attributeName="opacity" to="0" begin="9.800s"/></rect>
+<clipPath id="c35">
+<rect x="16" y="471" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="9.800s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="471" fill="#c9d1d9" clip-path="url(#c35)" xml:space="preserve">%&amp;#M&amp;8&amp;88&amp;&amp;WMMMopphM&amp;M**#&amp;&amp;&amp;WM#***###MW&amp;&amp;W#*##W&amp;W&amp;Y 1{^;lI;,^`.        .:l}t+`.   '![[~_l'         .'&quot;Il!+])J}&quot;'{*oooo*MWWWWM#MW&amp;88&amp;M****MM#apbM8&amp;W&amp;&amp;8%%8&amp;WWW*hk</text>
+<rect y="471" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="9.800s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="9.800s"/><set attributeName="opacity" to="0" begin="10.080s"/></rect>
+<clipPath id="c36">
+<rect x="16" y="484" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="10.080s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="484" fill="#c9d1d9" clip-path="url(#c36)" xml:space="preserve">%&amp;#M&amp;8WM#***#MMaqwkMW*aoW&amp;M***ooooooo*#MW&amp;W#*#W&amp;WW- ?f&quot;l~!I,,^'.        ,)YLLr{}?-(XZOr]^          .^:l!~?)x0::,C#oaa*WWM#****##MMWW&amp;&amp;#**MM*apb#&amp;WWW&amp;&amp;8%8&amp;WWW#hk</text>
+<rect y="484" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="10.080s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="10.080s"/><set attributeName="opacity" to="0" begin="10.360s"/></rect>
+<clipPath id="c37">
+<rect x="16" y="497" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="10.360s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="497" fill="#c9d1d9" clip-path="url(#c37)" xml:space="preserve">%W*M88M*oahaoMMaqwk##oa*WW*ooooaaaaaaao*#W&amp;M*#W&amp;WMO]|Y~I~il;;,&quot;`        `_nwwmZCUQqqLx]:`        ..`,Ili-}|Ov`,lkoahoMM******oo**###MWW*o##*apb#&amp;WMWWW8%%&amp;&amp;&amp;W#hk</text>
+<rect y="497" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="10.360s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="10.360s"/><set attributeName="opacity" to="0" begin="10.640s"/></rect>
+<clipPath id="c38">
+<rect x="16" y="510" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="10.640s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="510" fill="#c9d1d9" clip-path="url(#c38)" xml:space="preserve">8W*M&amp;&amp;#aahkhoMMhwwk**aa#WMoaaahkkkkkkhao*M&amp;W*#WWM#MW*O)_i~i!!I:^`  .`I~[/Cb*Ob*Uw#b**0)~&quot;.     .''`&quot;I!i+]1uq~  ~hoha#M*ooaaaaaaaoo***MW*o**ohpb#WMMMWW&amp;%8&amp;&amp;&amp;W#kk</text>
+<rect y="510" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="10.640s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="10.640s"/><set attributeName="opacity" to="0" begin="10.920s"/></rect>
+<clipPath id="c39">
+<rect x="16" y="523" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="10.920s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="523" fill="#c9d1d9" clip-path="url(#c39)" xml:space="preserve">8W*MWW*akbbko##hwwb**hh*M*aahbddddbbkkhao#WM**MWM##WWkvf/]~~!l;,`^[nUJYUzv)1)1){{//rjYCCn)?;`'``^&quot;,;!~i?1|Qovfvp*ahaMM*ahhhhkkkhaaaoo#M*o**okqd#WM##MW&amp;88&amp;W&amp;W*kb</text>
+<rect y="523" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="10.920s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="10.920s"/><set attributeName="opacity" to="0" begin="11.200s"/></rect>
+<clipPath id="c40">
+<rect x="16" y="536" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="11.200s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="536" fill="#c9d1d9" clip-path="url(#c40)" xml:space="preserve">8M*MWW*akbbka*#hwmbookko#ohbdpppppdbbkkho#WM**MWM##WW*OXr/(-ll;^,ndwOc/||/t|((]~?}[][{}tuYmQr!,,,,;li-}/xYaMoooooakh**akbbbdppbkkkhao#M*oo*okqd#WM##MW&amp;88WWWW*bd</text>
+<rect y="536" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="11.200s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="11.200s"/><set attributeName="opacity" to="0" begin="11.480s"/></rect>
+<clipPath id="c41">
+<rect x="16" y="549" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="11.480s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="549" fill="#c9d1d9" clip-path="url(#c41)" xml:space="preserve">8M*MWW*akbbka**kwwboobba*akbpppqqpdbbbkha*M#o*MWM##MW*bCXzc)_~;,?CXrYZq0JXJLXnvJUuvJLJcjnzLbZv;:IIl?1tucYh%oahkhakpbookdpppqwwqdbkhho#M*ao*obwp#WM###M&amp;88WWWW*bd</text>
+<rect y="549" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="11.480s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="11.480s"/><set attributeName="opacity" to="0" begin="11.760s"/></rect>
+<clipPath id="c42">
+<rect x="16" y="562" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="11.760s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="562" fill="#c9d1d9" clip-path="url(#c42)" xml:space="preserve">8M*MWW*ahkbka**kwmdoabda*akbdppqqpdbkbkha*M#o*MMM##MWM#bqLUcf[!l?({--[(}?i;^&quot;^;~lI~_?1fYJctxCuI:li?xYUU0a%#aakbhhbqdoabqqqqwwmmqpkhhoMM*ao*obmp#WM###M&amp;88WMWW*bd</text>
+<rect y="562" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="11.760s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="11.760s"/><set attributeName="opacity" to="0" begin="12.040s"/></rect>
+<clipPath id="c43">
+<rect x="16" y="575" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="12.040s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="575" fill="#c9d1d9" clip-path="url(#c43)" xml:space="preserve">8M#W&amp;W#*ooaaa**kwmdoadpa*akbbbddddbbbbbka*#*o*MM#*#MWMW&amp;obp0Cj}___!IIli_?-i;`^:&quot;`,l!l~__ilI_t}II_|rUOZpa%&amp;aaakbkhbqdaabqwwwwwwwqpbbka#M*ao*abwp*WM*###W8&amp;WMMMobd</text>
+<rect y="575" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="12.040s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="12.040s"/><set attributeName="opacity" to="0" begin="12.320s"/></rect>
+<clipPath id="c44">
+<rect x="16" y="588" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="12.320s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="588" fill="#c9d1d9" clip-path="url(#c44)" xml:space="preserve">&amp;M#WWM#**ooaaoohpqboobbo*ohkbbkkbdbbbbkhho#*a*MM#**MWW#M%%Wp0cj(_~!!!i~_}/rcUXuvXvt()}?+lllii!++1U0mboW%Whhahbdkhbwdaabqwwwwwwqpdbbbh*#oao*abwp*WM**##W8&amp;WMMMobd</text>
+<rect y="588" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="12.320s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="12.320s"/><set attributeName="opacity" to="0" begin="12.600s"/></rect>
+<clipPath id="c45">
+<rect x="16" y="601" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="12.600s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="601" fill="#c9d1d9" clip-path="url(#c45)" xml:space="preserve">&amp;WMMM#*oaahkkhhkbdh*okko#ohhkbbbbdbkkkkkho#*o*MM#**MWWM#M&amp;%#bwzj(]__+~!ll_1jzQdk0u/}?+iiiii~~_]tYqba&amp;@&amp;waaoahdpkhdwdaabppqqqwqqpbbbkh*#oao*adwd#WM*##MW&amp;&amp;WMWMobd</text>
+<rect y="601" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="12.600s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="12.600s"/><set attributeName="opacity" to="0" begin="12.880s"/></rect>
+<clipPath id="c46">
+<rect x="16" y="614" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="12.880s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="614" fill="#c9d1d9" clip-path="url(#c46)" xml:space="preserve">8WM&amp;8&amp;WM####*##hpda#*hh*#ohhkbbbdbkhhkkka*M*o*MM***W&amp;WM#M&amp;wp%WqCUf[~l;,^^'''':!,^``''^,;lli_[)tYda&amp;@Bdnu@@%8Mokkhbqdoabppddpqqppddbkh*#*ao*abqb#WM###MW8&amp;WMWMobb</text>
+<rect y="614" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="12.880s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="12.880s"/><set attributeName="opacity" to="0" begin="13.160s"/></rect>
+<clipPath id="c47">
+<rect x="16" y="627" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="13.160s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="627" fill="#c9d1d9" clip-path="url(#c47)" xml:space="preserve">8MM&amp;&amp;W#*aaaao#*hpdoM*aa*#oahkkkbbbkkhkkha*M#o*MM#*#W&amp;WMMM8O_YM$Mamr}i;&quot;`..  ..        '`&quot;:_tU00a%@BhX(1r%$$$@%&amp;#abwboakppppqqqppdbbka*#*ao*abqb#WM###MW88WWWW*bd</text>
+<rect y="627" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="13.160s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="13.160s"/><set attributeName="opacity" to="0" begin="13.440s"/></rect>
+<clipPath id="c48">
+<rect x="16" y="640" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="13.440s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="640" fill="#c9d1d9" clip-path="url(#c48)" xml:space="preserve">8WM&amp;8M*oahhaoM#abb*M*aa#M*oaaaahhaaaaaaao#W#o*MM#*#W&amp;WMMW8bi]rOMBWd0nr){{?-,^,I:'^&quot;,;:I-[rcZa*8$&amp;dUf1}{t#$$$$B&amp;MMopboohbpppppdbbbbkha*M*oo*abqkMWM*##MW88WWWW*kb</text>
+<rect y="640" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="13.440s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="13.440s"/><set attributeName="opacity" to="0" begin="13.720s"/></rect>
+<clipPath id="c49">
+<rect x="16" y="653" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="13.720s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="653" fill="#c9d1d9" clip-path="url(#c49)" xml:space="preserve">88&amp;&amp;W#***oo*****oo*#**oooahhkkkkkkkkhhhhao*oo*MM#*#W&amp;WWW&amp;%o~_)/vmWB%Wh0OLLc?{()}+-)nxjtXqaW$$B#Zcf)}]]{(w$$$$BWMM#oa*#oaahhaaaaaaaooo#M#**#obqb#WM###MW88WWWW#hk</text>
+<rect y="653" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="13.720s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="13.720s"/><set attributeName="opacity" to="0" begin="14.000s"/></rect>
+<clipPath id="c50">
+<rect x="16" y="666" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="14.000s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="666" fill="#c9d1d9" clip-path="url(#c50)" xml:space="preserve">%%%&amp;MMMM####*oo***ao#M*ahhhkkkkkkkkhhkkkkhhao*MM#*#&amp;8&amp;WW#ab?~[(txXdW$@8&amp;#*bwd0ZJUJCdhbk#B$BWk0u|1?_+~_]1c&amp;$$@8M*###*oahhhkkkkkkkhhhhhao**##ohpb#&amp;M##MMW88&amp;WWW#hk</text>
+<rect y="666" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="14.000s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="14.000s"/><set attributeName="opacity" to="0" begin="14.280s"/></rect>
+<clipPath id="c51">
+<rect x="16" y="679" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="14.280s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="679" fill="#c9d1d9" clip-path="url(#c51)" xml:space="preserve">%%88&amp;&amp;WWMMMMMM#MM#**##*******ooo*******oooo**####MM&amp;&amp;&amp;*pdWB/_?{(/rvUwM%$$@$$$B%B@%88B$$B#dOYx([-ilIIIi_[fmW$B&amp;M*#MWM#*haaahhahhhhaahaao**#M#*o*W&amp;W##MM&amp;88&amp;W&amp;&amp;#ah</text>
+<rect y="679" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="14.280s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="14.280s"/><set attributeName="opacity" to="0" begin="14.560s"/></rect>
+<clipPath id="c52">
+<rect x="16" y="692" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="14.560s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="692" fill="#c9d1d9" clip-path="url(#c52)" xml:space="preserve">%%8888&amp;&amp;WWWWMMMM#####**###*****o***ooooooo****##MMMWomZ*B$$x_]]}(|fxcJOph*MW8%%%8&amp;&amp;M*kq0Yuj|]+iI,&quot;&quot;,:Ii-|QhB%W#*#MWWM#*adppddpppqpppppbkhkkho***#MMWWW&amp;88&amp;&amp;&amp;&amp;Mah</text>
+<rect y="692" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="14.560s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="14.560s"/><set attributeName="opacity" to="0" begin="14.840s"/></rect>
+<clipPath id="c53">
+<rect x="16" y="705" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="14.840s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="705" fill="#c9d1d9" clip-path="url(#c53)" xml:space="preserve">BBBB%%%8888&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;888888&amp;&amp;&amp;WWWWWWWMMMMWWWWWWW&amp;&amp;&amp;8&amp;qLb&amp;@$$$z-]??})|fruczYJCQ000QLJUYcnxf/)?~!I,^`^`&quot;,;!_)C*B8W#*#MW&amp;&amp;WM#*#oaoooooo*ooo**###MWW&amp;&amp;&amp;8%%88%B%8&amp;&amp;&amp;Mah</text>
+<rect y="705" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="14.840s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="14.840s"/><set attributeName="opacity" to="0" begin="15.120s"/></rect>
+<clipPath id="c54">
+<rect x="16" y="718" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="15.120s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="718" fill="#c9d1d9" clip-path="url(#c54)" xml:space="preserve">8888&amp;&amp;&amp;WWWWMMMMMMMMMMMWMMM####*****oo*****#####MWaCQo8@$$$$X-??-?[})/ruuxf///t///t///(1[-ilI:^''`'`^,;l+(08%&amp;M#*MWW&amp;&amp;&amp;&amp;WWM8W#*o********#MMMW&amp;&amp;&amp;88%%%%8%B%8&amp;88Mah</text>
+<rect y="718" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="15.120s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="15.120s"/><set attributeName="opacity" to="0" begin="15.400s"/></rect>
+<clipPath id="c55">
+<rect x="16" y="731" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="15.400s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="731" fill="#c9d1d9" clip-path="url(#c55)" xml:space="preserve">B%%%8888&amp;&amp;&amp;&amp;&amp;WWWWWW&amp;&amp;&amp;&amp;WWWWWMMMMMMM##MMMMWWWWWW&amp;pXZ*8B$$$@8v]?---?][1/rnnf1?--]}1111[?_il;,^`'...'^^,;l-/dB8&amp;M**#MW&amp;&amp;&amp;&amp;&amp;&amp;M%%&amp;W*oaaaaoo***##MMMWW&amp;&amp;8888%BB8888Moa</text>
+<rect y="731" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="15.400s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="15.400s"/><set attributeName="opacity" to="0" begin="15.680s"/></rect>
+<clipPath id="c56">
+<rect x="16" y="744" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="15.680s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="744" fill="#c9d1d9" clip-path="url(#c56)" xml:space="preserve">%88&amp;&amp;WWMMM######**#####*******ooooooooo***###MMZcm*&amp;%B$$B#az1}]?-?][1|///ff)]?[}}[?_~!;:&quot;&quot;^^``'`'`^&quot;,Ii]vMB8&amp;M***MW&amp;&amp;888&amp;M%%%8&amp;&amp;WW&amp;&amp;WMM*ooo**#MW&amp;&amp;8888%B%8&amp;88Woa</text>
+<rect y="744" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="15.680s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="15.680s"/><set attributeName="opacity" to="0" begin="15.960s"/></rect>
+<clipPath id="c57">
+<rect x="16" y="757" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="15.960s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="757" fill="#c9d1d9" clip-path="url(#c57)" xml:space="preserve">88&amp;&amp;WWM###****oooooooooooooooooooooooooooo***#0zmoW8%@$BhppU/(1}]]]?]{)))111}[]?-~!l;,&quot;&quot;&quot;^^``````^&quot;,;l+(Z%%&amp;WM#**#M&amp;88888W8%%&amp;&amp;88&amp;W&amp;888&amp;WWM#*oo#WW&amp;WW&amp;8BB%888Woa</text>
+<rect y="757" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="15.960s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="15.960s"/><set attributeName="opacity" to="0" begin="16.240s"/></rect>
+<clipPath id="c58">
+<rect x="16" y="770" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="16.240s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="770" fill="#c9d1d9" clip-path="url(#c58)" xml:space="preserve">88&amp;WWWM####*oooooooaaaaaaaaaaooooooooooooo**o0cmoM&amp;8BB$Mm00Jrt/(1}[]]]}}[?--__+~!lI;:,,&quot;&quot;^```^^&quot;&quot;:;IIi}XMB%8&amp;M#***M&amp;&amp;8%8&amp;W&amp;8&amp;W&amp;%888&amp;&amp;&amp;8%%%%B%8&amp;&amp;&amp;WMMMW8BB%888Woa</text>
+<rect y="770" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="16.240s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="16.240s"/><set attributeName="opacity" to="0" begin="16.520s"/></rect>
+<clipPath id="c59">
+<rect x="16" y="783" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="16.520s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="783" fill="#c9d1d9" clip-path="url(#c59)" xml:space="preserve">8&amp;&amp;WWWMM##**oooooaaaaaooooaaaaaaaooaaoo*oabqCv0kMW&amp;&amp;%@$hCYCJxt/|(1}[[}1){[?-~ii!!lII;:,&quot;&quot;&quot;&quot;&quot;&quot;&quot;,;;llli[xq%B%&amp;&amp;M#*o*MW88&amp;&amp;&amp;W8WWM8B8888&amp;&amp;&amp;&amp;8%%8&amp;WWMWM#**#M888&amp;88Woh</text>
+<rect y="783" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="16.520s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="16.520s"/><set attributeName="opacity" to="0" begin="16.800s"/></rect>
+<clipPath id="c60">
+<rect x="16" y="796" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="16.800s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="796" fill="#c9d1d9" clip-path="url(#c60)" xml:space="preserve">8&amp;&amp;WWMM#***ooooaaaaaaoo*ooaaaaaaaaaaooadwwkmuJpoMW&amp;8%B$dcvUCn/(|((1}][{)((){]?-__~i!!lI;::,,,:I!i!l!_(0&amp;%B8&amp;WM#*oo*MW&amp;&amp;W&amp;&amp;WMMW8%&amp;&amp;8&amp;&amp;WW&amp;&amp;&amp;&amp;WWWWMMMM###*aaoo#M#ah</text>
+<rect y="796" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="16.800s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="16.800s"/><set attributeName="opacity" to="0" begin="17.080s"/></rect>
+<clipPath id="c61">
+<rect x="16" y="809" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="17.080s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="809" fill="#c9d1d9" clip-path="url(#c61)" xml:space="preserve">8&amp;&amp;&amp;WM##**ooooaaaaaaaaaoooaaaaaaaahbqZ0ma&amp;hvYwh#MW&amp;8%B$aurcUv/11(|(1[]]}(||||)1}[]--+ilI;:::;l~+~l!+{Y&amp;%%8&amp;&amp;WM#****MMM&amp;&amp;8W#MWW%8MW8%8WWWWW&amp;88&amp;WMM&amp;&amp;&amp;WWMM#*#####*</text>
+<rect y="809" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="17.080s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="17.080s"/><set attributeName="opacity" to="0" begin="17.360s"/></rect>
+<clipPath id="c62">
+<rect x="16" y="822" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="17.360s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="822" fill="#c9d1d9" clip-path="url(#c62)" xml:space="preserve">88&amp;&amp;WWM#*oooooaaaaaaaaaoooooooohpmOmqdaW8*Yz0ko#MM&amp;88B@@JrcXct}[})||1]_-?{))))1}[]]?_ilI:,;l~--+i!+}vo@88&amp;WWMM#ooo**MMW8%WMWM&amp;B&amp;W&amp;8BB&amp;WWWW&amp;&amp;W#W&amp;&amp;&amp;W&amp;WMW&amp;&amp;&amp;&amp;8&amp;&amp;&amp;&amp;</text>
+<rect y="822" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="17.360s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="17.360s"/><set attributeName="opacity" to="0" begin="17.640s"/></rect>
+<clipPath id="c63">
+<rect x="16" y="835" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="17.640s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="835" fill="#c9d1d9" clip-path="url(#c63)" xml:space="preserve">8&amp;&amp;&amp;WM##*oooooaaaaaaaaaooo**ap00wkahb*%%MJuLqa*#MMW&amp;8B@@ovXXcf[--?1/t)]__-]}1)1{{}?-_~!I;;l~_-_iii-fp88WMMM#***o*ooo#M&amp;%8WWMM8%WW&amp;8BB&amp;WWW&amp;&amp;M#W&amp;W&amp;&amp;MMMW888&amp;WWWWWW</text>
+<rect y="835" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="17.640s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="17.640s"/><set attributeName="opacity" to="0" begin="17.920s"/></rect>
+<clipPath id="c64">
+<rect x="16" y="848" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="17.920s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="848" fill="#c9d1d9" clip-path="url(#c64)" xml:space="preserve">8&amp;WWMM#**ooaaoaaaaaaaooooadOJCwaMadh&amp;B8MmxYZbo**MWW&amp;8B@%BwXcvt}___-}/f(?~~~_?][[[}[]-+!;:Ii~i!I;Iitm#WWMW&amp;&amp;8BBB@@@@BB8&amp;B8WWMWB8MWW&amp;B@%WW&amp;&amp;##MWMWWM*M&amp;&amp;&amp;W&amp;WWWWWWW</text>
+<rect y="848" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="17.920s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="17.920s"/><set attributeName="opacity" to="0" begin="18.200s"/></rect>
+<clipPath id="c65">
+<rect x="16" y="861" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="18.200s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="861" fill="#c9d1d9" clip-path="url(#c65)" xml:space="preserve">&amp;&amp;WM##****ooooaaaaaooohpOLCLwaM*dpM%%&amp;MkvYOdho*#MW&amp;8B%W&amp;B8Cvvt[~!~~~]|t{+lI!i~_--?[}[_l::;;:,,^&quot;[La*M%@@$$$$$$$$$$$$$$@B&amp;WWW8BWMWW&amp;8@B&amp;&amp;&amp;M#MMMMW#*M&amp;&amp;&amp;WWMMMWWWWW</text>
+<rect y="861" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="18.200s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="18.200s"/><set attributeName="opacity" to="0" begin="18.480s"/></rect>
+<clipPath id="c66">
+<rect x="16" y="874" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="18.480s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="874" fill="#c9d1d9" clip-path="url(#c66)" xml:space="preserve">&amp;&amp;WMM##*****ooaaaaahq0CC0OwhMMhph&amp;%%&amp;#oYYLmbko##MW&amp;%&amp;*#&amp;%%MLn|-l;;;li?(|_,^&quot;,:Ili+?{}~,^&quot;&quot;``''+J#M#%$$$$$$$$$$$$$$$$$$$%WMW&amp;BBWMWW&amp;8%B%8M*MM#M&amp;M*M&amp;&amp;WM##MWWWMMMW</text>
+<rect y="874" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="18.480s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="18.480s"/><set attributeName="opacity" to="0" begin="18.760s"/></rect>
+<clipPath id="c67">
+<rect x="16" y="887" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="18.760s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="887" fill="#c9d1d9" clip-path="url(#c67)" xml:space="preserve">&amp;WWMM##****ooooahq0JCOwwwb#Mobb*8B%W#*wb&amp;888&amp;&amp;W##M8Ma#W&amp;WW&amp;WJ}_I::,:I!?)[;''''``&quot;I+{[l`'''. lno%#MB$@@$$$$BBB@$$$@BB@@BWWWW&amp;@%MMWW&amp;88%B&amp;####M&amp;M*W&amp;&amp;M##MW&amp;WMM#WW&amp;</text>
+<rect y="887" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="18.760s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="18.760s"/><set attributeName="opacity" to="0" begin="19.040s"/></rect>
+<clipPath id="c68">
+<rect x="16" y="900" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="19.040s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="900" fill="#c9d1d9" clip-path="url(#c68)" xml:space="preserve">&amp;WWMM##******aq0CJCZppwpa##abhW%B%&amp;M#ab$$$$$$$$@%&amp;bkoM8M#M#MMUi:,:,&quot;&quot;,;~-!.    .':_1_&quot;..  :jkW&amp;8WW$B%B@$B&amp;WW8%B%%&amp;&amp;%B%&amp;MMWW8@&amp;#MWWW&amp;&amp;%%M#M#MWM*W8W#*#MWWM#MWWWWW</text>
+<rect y="900" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="19.040s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="19.040s"/><set attributeName="opacity" to="0" begin="19.320s"/></rect>
+<clipPath id="c69">
+<rect x="16" y="913" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="19.320s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="913" fill="#c9d1d9" clip-path="url(#c69)" xml:space="preserve">WWMM#####*hqQJUCLmdbqqbo##*a*W8%%8WMopdB$$$B@$$$$odho**o*M####L~^^^^^'`^,:'   .'&quot;![]I`'.;xbWWMM&amp;M8B8%%@8MM#M&amp;88WMW&amp;%8&amp;MWWMW%BW#M&amp;WWW&amp;%W*M##MW#&amp;8M*#MWWM#W&amp;&amp;WWWWW</text>
+<rect y="913" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="19.320s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="19.320s"/><set attributeName="opacity" to="0" begin="19.600s"/></rect>
+<clipPath id="c70">
+<rect x="16" y="926" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="19.600s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="926" fill="#c9d1d9" clip-path="url(#c70)" xml:space="preserve">WWM####opQUYUCQOwpddba*#*##MW8%%8WM*pO*B@@BWB$$$$@@%W#o**###M#Mq1,`'...'.'.    ^Ii~l&quot;^&quot;1q#*o**WB@@%%%B&amp;##MMWWWM##&amp;%8WMMWWWW%BM#W&amp;MMW&amp;%M*M##WMW8M#MWWWMW88&amp;WMMMWW</text>
+<rect y="926" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="19.600s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="19.600s"/><set attributeName="opacity" to="0" begin="19.880s"/></rect>
+<clipPath id="c71">
+<rect x="16" y="939" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="19.880s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="939" fill="#c9d1d9" clip-path="url(#c71)" xml:space="preserve">WWMM##aQYCL0Zwwpkhaao####MWW&amp;8%&amp;WM*hZpW88&amp;Wa&amp;@$$$$$$$$B8W#***##M*C-^`....... .^;;;;&quot;^?Cooa*&amp;B@$$B%%%%&amp;##MMMMMM#MW88WMMWWMM&amp;B%M#W&amp;MMW%%*##M#&amp;W8W#WW&amp;WM8%&amp;WWMMMMMW</text>
+<rect y="939" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="19.880s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="19.880s"/><set attributeName="opacity" to="0" begin="20.160s"/></rect>
+<clipPath id="c72">
+<rect x="16" y="952" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="20.160s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="952" fill="#c9d1d9" clip-path="url(#c72)" xml:space="preserve">WWMMMbCLOqwqbkaoo**a#WMMWW&amp;&amp;88&amp;WM*aqZaW&amp;WMob#B$$$$@$@$$$$@%W#***#Max,''``''`'^^,:,^:jk**&amp;B$$$$@%8%88&amp;#MMWMMM#*MM&amp;8&amp;MM#MMMW&amp;B%##W&amp;WMWB8o###M88&amp;MW88WW%8WMWMMMMMMW</text>
+<rect y="952" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="20.160s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="20.160s"/><set attributeName="opacity" to="0" begin="20.440s"/></rect>
+<clipPath id="c73">
+<rect x="16" y="965" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="20.440s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="965" fill="#c9d1d9" clip-path="url(#c73)" xml:space="preserve">WMMMbLZZwhao*###MM*h#WWWW&amp;&amp;&amp;8&amp;WM*obZbM&amp;WM*ado8BB@B%B%B@$$$$$$%&amp;#*##MC~^````''^&quot;,,,?Q*M%$$$$$$B&amp;&amp;8&amp;&amp;WMMW&amp;WM#**#MW88W##MMMMM&amp;%%##W&amp;WM&amp;@Wo*##&amp;%8M&amp;%8W&amp;B&amp;WWWWWWWWMMW</text>
+<rect y="965" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="20.440s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="20.440s"/><set attributeName="opacity" to="0" begin="20.720s"/></rect>
+<clipPath id="c74">
+<rect x="16" y="978" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="20.720s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="978" fill="#c9d1d9" clip-path="url(#c74)" xml:space="preserve">WWMbOwkbkMMMWMWWWW*kMWWWW&amp;&amp;&amp;&amp;WM#*aqqoW&amp;W#*apaW&amp;888888&amp;%@$$$$$$$@%W##Wd}&quot;^````^&quot;,;fh8@$$$@@$$BWM8&amp;WMMM&amp;&amp;WMM###MW&amp;8WM#MMMMMMW%%#*W&amp;&amp;M8@Wo##*%B&amp;W%%W8B&amp;W&amp;&amp;&amp;W&amp;&amp;WWMMW</text>
+<rect y="978" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="20.720s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="20.720s"/><set attributeName="opacity" to="0" begin="21.000s"/></rect>
+<clipPath id="c75">
+<rect x="16" y="991" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="21.000s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="991" fill="#c9d1d9" clip-path="url(#c75)" xml:space="preserve">WWhmqo#haW&amp;WWMW&amp;&amp;&amp;ohW&amp;&amp;&amp;&amp;&amp;&amp;8&amp;M##*kqhMWWM#*hqhM&amp;&amp;&amp;&amp;WWWWW8@$$$$$$$$$B8MMoj,`'`^``_L8$$$@@BB$$%WM&amp;&amp;WMMMW&amp;WMMM###MW8&amp;M*#MMMMMMM8%M*M&amp;&amp;W8@&amp;*###B8&amp;BB&amp;BB&amp;8%8W&amp;%8&amp;WW&amp;&amp;&amp;</text>
+<rect y="991" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="21.000s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="21.000s"/><set attributeName="opacity" to="0" begin="21.280s"/></rect>
+<clipPath id="c76">
+<rect x="16" y="1004" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="21.280s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="1004" fill="#c9d1d9" clip-path="url(#c76)" xml:space="preserve">W*qbkW&amp;oaW8&amp;WW&amp;&amp;WWohW&amp;&amp;88&amp;&amp;&amp;WM#*obk*M&amp;W##*apk#WW&amp;WMMWWMM&amp;B$@@@@@@$$$@8MMXl^^^`)a$$@B%B88B$%MM&amp;8WMMMWWWMMMM###MW&amp;&amp;#*###MMMMM8BW*M&amp;&amp;&amp;%$&amp;#MMMB8%$%B@%%%88BB8&amp;&amp;88&amp;WW</text>
+<rect y="1004" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="21.280s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="21.280s"/><set attributeName="opacity" to="0" begin="21.560s"/></rect>
+<clipPath id="c77">
+<rect x="16" y="1017" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="21.560s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="1017" fill="#c9d1d9" clip-path="url(#c77)" xml:space="preserve">Mbka*&amp;%MoW88&amp;&amp;&amp;&amp;W&amp;oa&amp;&amp;8888&amp;WM#**ah*MWWM##*okh#WWWWWMWWWMM&amp;B@B%%%%%B@$$@88Z~,Ix&amp;$@B8&amp;&amp;8&amp;8@%MM&amp;8WMWWWWMMMMM#**#WW&amp;W*#MMMMMMMM&amp;B8#W&amp;88B$%MMMW@8@B%@BB%8B@B88BB8WWWW</text>
+<rect y="1017" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="21.560s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="21.560s"/><set attributeName="opacity" to="0" begin="21.840s"/></rect>
+<clipPath id="c78">
+<rect x="16" y="1030" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="21.840s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="1030" fill="#c9d1d9" clip-path="url(#c78)" xml:space="preserve">hboa#8B8*W%8&amp;8&amp;W&amp;8oo&amp;8%888&amp;WM#*oo#MWWMM##M*haMWWWMMMMWWWWMW%B%88&amp;&amp;&amp;8%B$$@Bd/CB$B8&amp;&amp;W&amp;W&amp;%%MM&amp;&amp;WMMWWWWMMMMM#**#W&amp;WM*#MMWMMMMW&amp;B%MM8%8%$%MMW&amp;BB@B@@BBB@@%%@B%&amp;W8%%%</text>
+<rect y="1030" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="21.840s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="21.840s"/><set attributeName="opacity" to="0" begin="22.120s"/></rect>
+<clipPath id="c79">
+<rect x="16" y="1043" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="22.120s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="1043" fill="#c9d1d9" clip-path="url(#c79)" xml:space="preserve">bhM*MB@@#W8888&amp;&amp;&amp;%oM&amp;88&amp;&amp;&amp;WM#M#**#MWWMMMMM*koMWWMMMWWWW&amp;WMMW%%&amp;&amp;W&amp;MM&amp;8&amp;8$$@MB$B&amp;&amp;&amp;MW&amp;W88MM&amp;8WWMMWWWMMMMM####MW&amp;&amp;W##MWWWWWMW&amp;%BWM8%BB$@&amp;MW&amp;@@@@$@B@$@B@@%88%B%8&amp;&amp;</text>
+<rect y="1043" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="22.120s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="22.120s"/><set attributeName="opacity" to="0" begin="22.400s"/></rect>
+<clipPath id="c80">
+<rect x="16" y="1056" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="22.400s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="1056" fill="#c9d1d9" clip-path="url(#c80)" xml:space="preserve">b*WWMB$$&amp;W8888&amp;&amp;8%*W&amp;8888&amp;MMMMMMMMMMWM#MMM*h*WWWWWMWWWWW&amp;&amp;WMW&amp;&amp;WW&amp;MWo0ZLwBW%@%WWWMMWM&amp;%W#&amp;8&amp;MWWWWM##MMMM###MWW&amp;&amp;WMMMWWWWWMW&amp;%B&amp;M&amp;%B@$@8WW&amp;@@$$@@$@@@BB%BBB8&amp;&amp;&amp;88</text>
+<rect y="1056" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="22.400s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="22.400s"/><set attributeName="opacity" to="0" begin="22.680s"/></rect>
+<clipPath id="c81">
+<rect x="16" y="1069" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="22.680s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="1069" fill="#c9d1d9" clip-path="url(#c81)" xml:space="preserve">aM&amp;%M%@$B&amp;88%%88B%#&amp;&amp;88&amp;&amp;WWMMMWMMMMWWWMWWW#a#W&amp;WWWMWWWW&amp;888&amp;WM&amp;&amp;W&amp;&amp;&amp;br00OM%B8W&amp;WM#WWW8WM&amp;8&amp;WWWWWWWMMMMMMMMMMWW&amp;&amp;WMMMWWWWWW&amp;8%B%&amp;&amp;%B@$$%&amp;&amp;8@$$$$$@@BBBBB%8888&amp;&amp;&amp;&amp;</text>
+<rect y="1069" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="22.680s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="22.680s"/><set attributeName="opacity" to="0" begin="22.960s"/></rect>
+<clipPath id="c82">
+<rect x="16" y="1082" width="0" height="13"><animate attributeName="width" from="0" to="1152.0" begin="22.960s" dur="0.280s" fill="freeze" calcMode="linear"/></rect>
+</clipPath>
+<text x="16" y="1082" fill="#c9d1d9" clip-path="url(#c82)" xml:space="preserve">M&amp;8B&amp;8@$@888%%%%$8M&amp;&amp;88&amp;&amp;&amp;&amp;WWWWWWWWWWWWWWM#o#WW&amp;WWWWW&amp;W&amp;88%%8WM&amp;&amp;WWM8MhMW8B&amp;WW&amp;M#MWM&amp;WM&amp;88W&amp;WWWWWWWMWWMMMMMMWW&amp;&amp;WMWWWWWWW&amp;&amp;&amp;%BB8&amp;%B@$$B8&amp;8B$$$@@@BB@%%%%888888&amp;&amp;</text>
+<rect y="1082" width="7.2" height="12" fill="#3fb950" opacity="0"><animate attributeName="x" from="16" to="1168.0" begin="22.960s" dur="0.280s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="22.960s"/><set attributeName="opacity" to="0" begin="23.240s"/></rect>
+</svg>
