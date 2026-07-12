@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="photo.svg" alt="ASCII Profile">
+  <img src="photo_cropped.svg" alt="ASCII Profile">
 </p>
 
 <br>
