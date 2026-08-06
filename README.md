@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rohit+Singh;Cybersecurity+Student;Ethical+Hacking+Enthusiast;Future+Security+Analyst" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rohit+Singh;Cybersecurity+Student;Ethical+Hacking+Enthusiast;Future+Security+Analyst" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656986-5b7e0d7d-f4a0-47a7-9e4f-8d4d8fdf2b7b.gif" width="420">
+  <img src="https://github.com/user-attachments/assets/your-animation.gif" width="500" alt="Cyber Animation"/>
 </p>
 
 <h3 align="center">
-🛡️ Cyber Security Student • Ethical Hacking • CTF • Security Research
+🛡️ Cyber Security Student • Ethical Hacking • CTF Player • Open Source
 </h3>
 
 <p align="center">
