@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rohit+Singh;Cybersecurity+Student;Ethical+Hacking+Enthusiast;Future+Security+Analyst" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rohit+Singh;Cybersecurity+Student;Ethical+Hacking+Enthusiast;Future+Security+Analyst" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656986-5b7e0d7d-f4a0-47a7-9e4f-8d4d8fdf2b7b.gif" width="420">
 </p>
 
 <h3 align="center">
-🛡️ B.Tech CSE (Cyber Security) Student | Ethical Hacking | CTF Player | Open Source Learner
+🛡️ Cyber Security Student • Ethical Hacking • CTF • Security Research
 </h3>
 
 <p align="center">
