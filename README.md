@@ -1,15 +1,9 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark_mode.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/light_mode.svg">
-    <img alt="Cyber Banner" src="./assets/dark_mode.svg">
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rohit+Singh;Cybersecurity+Student;Ethical+Hacking+Enthusiast;Future+Security+Analyst" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Rohit Singh</h1>
-
 <h3 align="center">
-Cyber Security Student • Ethical Hacking • CTF • Open Source
+🛡️ B.Tech CSE (Cyber Security) Student | Ethical Hacking | CTF Player | Open Source Learner
 </h3>
 
 <p align="center">
