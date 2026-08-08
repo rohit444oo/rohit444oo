@@ -1,4 +1,18 @@
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rohit+Singh;Cybersecurity+Student;Ethical+Hacking+Enthusiast;Future+Security+Analyst" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <strong>🛡️ Cyber Security • Ethical Hacking • CTF • Security Research</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:rohit96ja@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/rohit-i444">💼 LinkedIn</a> •
+  <a href="https://instagram.com/rohit.singh_34">📸 Instagram</a> •
+  <a href="https://discord.gg/rohitsingh7553">💬 Discord</a>
+</p>
 
 ## 👨‍💻 About Me
 
@@ -23,6 +37,8 @@
 
 ---
 
+---
+
 ## 🛡️ Cybersecurity
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -32,7 +48,6 @@
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 ---
 
 ## 💻 Languages & Development
@@ -71,10 +86,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rohit444oo&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit444oo&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rohit444oo&theme=tokyonight&hide_border=true" />
@@ -82,11 +94,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohit444oo&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
