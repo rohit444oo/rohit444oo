@@ -2,19 +2,9 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/dark_mode.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/light_mode.svg">
-    <img src="./assets/dark_mode.svg" alt="Rohit Singh Cybersecurity Profile Banner" width="100%">
+    <img src="./assets/dark_mode.svg" alt="Rohit Singh" width="100%">
   </picture>
 </p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark_mode.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/light_mode.svg">
-    <img src="./assets/dark_mode.svg" alt="Rohit Singh Cybersecurity Profile Banner" width="100%">
-  </picture>
-</p>
-
-<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rohit+Singh;Cybersecurity+Student;Ethical+Hacking+Enthusiast;Future+Security+Analyst" alt="Typing SVG">
@@ -25,18 +15,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:rohit96ja@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/rohit-i444">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/rohit.singh_34">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://discord.gg/rohitsingh7553">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
+  <a href="mailto:rohit96ja@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/rohit-i444">💼 LinkedIn</a> •
+  <a href="https://instagram.com/rohit.singh_34">📸 Instagram</a> •
+  <a href="https://discord.gg/rohitsingh7553">💬 Discord</a>
 </p>
 
 ---
@@ -47,7 +29,7 @@
 🔐 Interested in Ethical Hacking and Cybersecurity
 🧪 Building security tools and practical projects
 🌐 Exploring Web & Network Security
-🐧 Comfortable working with Linux and security tools
+🐧 Working with Linux and security tools
 🧠 Practicing CTFs and hands-on security labs
 🎯 Working towards a career in Security Analysis & Penetration Testing
 
@@ -96,21 +78,19 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 ---
 
 ## 🌱 Currently Learning
 
-```text
-Penetration Testing
-Web Application Security
-Network Security
-API Security
-Linux Security
-Cloud Security
-Digital Forensics
-```
+* 🔐 Penetration Testing
+* 🌐 Web Application Security
+* 🖧 Network Security
+* 🔑 API Security
+* 🐧 Linux Security
+* ☁️ Cloud Security
+* 🔎 Digital Forensics
 
 ---
 
